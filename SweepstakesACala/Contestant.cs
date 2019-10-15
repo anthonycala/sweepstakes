@@ -8,5 +8,18 @@ namespace SweepstakesACala
 {
     class Contestant
     {
+        //member variables
+
+
+
+
+
+        //constructor
+
+
+
+
+        //methods
+
     }
 }

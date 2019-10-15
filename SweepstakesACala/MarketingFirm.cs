@@ -8,5 +8,19 @@ namespace SweepstakesACala
 {
     class MarketingFirm
     {
+        //member variables
+
+
+
+
+
+        //constructor
+
+
+
+
+        //methods
+
+
     }
 }

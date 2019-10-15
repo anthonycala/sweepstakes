@@ -8,5 +8,26 @@ namespace SweepstakesACala
 {
     class SweepstakesStackManager
     {
+        //member variables
+
+
+
+
+
+        //constructor
+        public SweepstakesStackManager()
+        {
+
+        }
+
+
+
+        //methods
+
+
+
+
+
+
     }
 }
