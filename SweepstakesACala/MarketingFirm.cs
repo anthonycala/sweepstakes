@@ -15,7 +15,10 @@ namespace SweepstakesACala
 
 
         //constructor
+        public MarketingFirm()
+        {
 
+        }
 
 
 

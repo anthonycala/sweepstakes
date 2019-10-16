@@ -10,13 +10,16 @@ namespace SweepstakesACala
     {
 
         //member variables
-
+        public void
 
 
 
 
         //constructor
+        public SweepstakesQueueManager()
+        {
 
+        }
 
 
 
