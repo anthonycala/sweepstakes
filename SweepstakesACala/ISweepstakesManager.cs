@@ -6,24 +6,21 @@ using System.Threading.Tasks;
 
 namespace SweepstakesACala
 {
-    class ISweepstakesManager
+    interface ISweepstakesManager
     {
-        //member variables
 
 
 
 
-
-        //constructor
-        public ISweepstakesManager()
-        {
-
-        }
 
 
 
         //methods
+        void InsertSweepstakes(Sweepstakes sweepstakes);
 
+
+        Sweepstakes GetSweepstakes();
+        
 
     }
 }

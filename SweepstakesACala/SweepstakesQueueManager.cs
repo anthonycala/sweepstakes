@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace SweepstakesACala
 {
-    class SweepstakesQueueManager
+    class SweepstakesQueueManager : ISweepstakesManager
     {
 
         //member variables
-        public void
+        public void SweepstakesQue()
+        {
+            Queue<int> queue = new Queue<int>();
+            queue.SweepstakesQue(1);
+
+        }
 
 
 

@@ -23,6 +23,12 @@ namespace SweepstakesACala
 
 
         //methods
+        private string firstName;
+        private string lastName;
+        private int registrationNumber;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int RegistrationNumber { get; set; }
 
     }
 }
