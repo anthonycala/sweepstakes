@@ -21,6 +21,9 @@ namespace SweepstakesACala
 
         Sweepstakes GetSweepstakes();
         
+        public void Read()
+        {
 
+        }
     }
 }

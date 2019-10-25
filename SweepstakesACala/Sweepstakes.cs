@@ -9,39 +9,39 @@ namespace SweepstakesACala
     class Sweepstakes
     {
         //member variables
-        
+        Dictionary<int, Contestant> Contestants = new Dictionary<int, Contestant>();
+
 
 
 
 
         //constructor
-        public Sweepstakes()
+        public Sweepstakes(string name)
         {
 
         }
 
 
 
-        //methods
-        Sweepstakes(string name)
-        {
-
-        }
-   
+        //method
 
         void RegisterContestant(Contestant contestant)
         {
-
+       
         }
 
         Contestant PickWinner()
         {
-
+            // randomly select winner
         }
 
 
         void PrintContestantInfo(Contestant contestant)
         {
+            Console.WriteLine(contestant.FirstName);
+            Console.WriteLine(contestant.LastName);
+            Console.WriteLine(contestant.EmailAddress);
+            Console.WriteLine(contestant.RegistrationNumber);
 
         }
 

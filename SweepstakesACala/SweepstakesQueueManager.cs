@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SweepstakesACala
 {
-    class SweepstakesQueueManager : ISweepstakesManager
+    class SweepstakesQueueManager : ISweepstakesManager 
     {
 
         //member variables
